@@ -1,0 +1,10 @@
+C:\Users\B H Cook\Documents\Visual Studio 2008\Projects\KiBao\KiBao\bin\Debug\KiBao.exe
+C:\Users\B H Cook\Documents\Visual Studio 2008\Projects\KiBao\KiBao\bin\Debug\KiBao.pdb
+C:\Users\B H Cook\Documents\Visual Studio 2008\Projects\KiBao\KiBao\bin\Debug\KiBao.xml
+C:\Users\B H Cook\Documents\Visual Studio 2008\Projects\KiBao\KiBao\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\B H Cook\Documents\Visual Studio 2008\Projects\KiBao\KiBao\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\B H Cook\Documents\Visual Studio 2008\Projects\KiBao\KiBao\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\B H Cook\Documents\Visual Studio 2008\Projects\KiBao\KiBao\obj\Debug\KiBao.vbproj.GenerateResource.Cache
+C:\Users\B H Cook\Documents\Visual Studio 2008\Projects\KiBao\KiBao\obj\Debug\KiBao.exe
+C:\Users\B H Cook\Documents\Visual Studio 2008\Projects\KiBao\KiBao\obj\Debug\KiBao.xml
+C:\Users\B H Cook\Documents\Visual Studio 2008\Projects\KiBao\KiBao\obj\Debug\KiBao.pdb
